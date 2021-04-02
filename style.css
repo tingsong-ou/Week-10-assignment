@@ -1,0 +1,17 @@
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+text {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+text.title {
+    font-size: 14px;
+    text-anchor: middle;
+    font-weight: bold;
+    transform: translate(0, 7px);
+    opacity: 0.8;
+}
