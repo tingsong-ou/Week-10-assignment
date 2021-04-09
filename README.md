@@ -1,4 +1,4 @@
-# Week 10 Assignment
+# Tingsong Ou - Week 10 Assignment Submission
 
 ### Requirements
 - Create a radial area chart with the "total" column in the dataset.
